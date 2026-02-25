@@ -1,1 +1,2 @@
 # cyclistic-bike-analysis-2025
+In this case study, I analyzed Cyclistic bike-share usage data to identify behavioral differences between casual riders and annual members. Using R for data cleaning, transformation, and visualization, I explored trends by day, month, and hour to uncover usage patterns. My analysis revealed key differences in ride frequency and duration, leading to three data-driven recommendations aimed at increasing annual memberships through targeted marketing strategies.
